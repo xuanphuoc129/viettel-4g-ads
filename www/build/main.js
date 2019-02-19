@@ -120,7 +120,7 @@ var PackageController = /** @class */ (function () {
                 data: "5GB",
                 isHot: true,
                 time: "30 ngày",
-                url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=mimax90&ch=230583"
+                url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=mimax90&ch=234513"
             },
             {
                 p_id: "1",
@@ -131,7 +131,7 @@ var PackageController = /** @class */ (function () {
                 data: "30GB",
                 isHot: true,
                 time: "30 ngày",
-                url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=umax300&ch=230583"
+                url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=umax300&ch=234513"
             },
             {
                 p_id: "1",
@@ -142,7 +142,7 @@ var PackageController = /** @class */ (function () {
                 data: "3GB",
                 isHot: false,
                 time: "30 ngày",
-                url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=mimax70&ch=230583"
+                url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=mimax70&ch=234513"
             },
             {
                 p_id: "1",
@@ -153,7 +153,7 @@ var PackageController = /** @class */ (function () {
                 data: "8GB",
                 isHot: false,
                 time: "30 ngày",
-                url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=mimax125&ch=230583"
+                url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=mimax125&ch=234513"
             },
             {
                 p_id: "1",
@@ -164,7 +164,7 @@ var PackageController = /** @class */ (function () {
                 data: "15GB",
                 isHot: false,
                 time: "30 ngày",
-                url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=mimax200&ch=230583"
+                url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=mimax200&ch=234513"
             },
             {
                 p_id: "2",
@@ -175,7 +175,7 @@ var PackageController = /** @class */ (function () {
                 data: "48GB",
                 isHot: true,
                 time: "12 tháng",
-                url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=D500&ch=230583"
+                url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=D500&ch=234513"
             },
             {
                 p_id: "2",
@@ -186,7 +186,7 @@ var PackageController = /** @class */ (function () {
                 data: "84GB",
                 isHot: true,
                 time: "12 tháng",
-                url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=D900&ch=230583"
+                url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=D900&ch=234513"
             },
             {
                 p_id: "2",
@@ -197,7 +197,7 @@ var PackageController = /** @class */ (function () {
                 data: "10GB",
                 isHot: false,
                 time: "30 ngày",
-                url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=D90&ch=230583"
+                url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=D90&ch=234513"
             },
             {
                 p_id: "2",
@@ -208,7 +208,7 @@ var PackageController = /** @class */ (function () {
                 data: "7GB",
                 isHot: false,
                 time: "30 ngày",
-                url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=D70&ch=230583"
+                url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=D70&ch=234513"
             },
             {
                 p_id: "2",
@@ -219,7 +219,7 @@ var PackageController = /** @class */ (function () {
                 data: "12GB",
                 isHot: false,
                 time: "30 ngày",
-                url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=D120&ch=230583"
+                url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=D120&ch=234513"
             },
             {
                 p_id: "2",
@@ -230,7 +230,7 @@ var PackageController = /** @class */ (function () {
                 data: "20GB",
                 isHot: false,
                 time: "30 ngày",
-                url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=D200&ch=230583"
+                url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=D200&ch=234513"
             },
             {
                 p_id: "3",
@@ -241,7 +241,7 @@ var PackageController = /** @class */ (function () {
                 data: "200MB",
                 isHot: false,
                 time: "60 ngày",
-                url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=TOMD10&ch=230583"
+                url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=TOMD10&ch=234513"
             },
             {
                 p_id: "3",
@@ -252,7 +252,7 @@ var PackageController = /** @class */ (function () {
                 data: "1GB",
                 isHot: false,
                 time: "60 ngày",
-                url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=TOMD30&ch=230583"
+                url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=TOMD30&ch=234513"
             }
         ];
         this.mViettelPakages = [];
@@ -371,19 +371,19 @@ var map = {
 		5
 	],
 	"../pages/package-info/package-info.module": [
-		295,
+		296,
 		4
 	],
 	"../pages/select-address/select-address.module": [
-		296,
+		295,
 		3
 	],
 	"../pages/sign-up-package/sign-up-package.module": [
-		297,
+		298,
 		2
 	],
 	"../pages/viettel-d-package/viettel-d-package.module": [
-		298,
+		297,
 		1
 	],
 	"../pages/viettel-package-detail/viettel-package-detail.module": [
@@ -871,10 +871,10 @@ var AppModule = /** @class */ (function () {
                     links: [
                         { loadChildren: '../pages/menu-show-modal/menu-show-modal.module#MenuShowModalPageModule', name: 'MenuShowModalPage', segment: 'menu-show-modal', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/package-detail/package-detail.module#PackageDetailPageModule', name: 'PackageDetailPage', segment: 'goi-cuoc/:name', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/package-info/package-info.module#PackageInfoPageModule', name: 'PackageInfoPage', segment: 'package-info', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/select-address/select-address.module#SelectAddressPageModule', name: 'SelectAddressPage', segment: 'select-address', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/sign-up-package/sign-up-package.module#SignUpPackagePageModule', name: 'SignUpPackagePage', segment: 'sign-up-package', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/package-info/package-info.module#PackageInfoPageModule', name: 'PackageInfoPage', segment: 'package-info', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/viettel-d-package/viettel-d-package.module#ViettelDPackagePageModule', name: 'ViettelDPackagePage', segment: 'viettel-d-package', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/sign-up-package/sign-up-package.module#SignUpPackagePageModule', name: 'SignUpPackagePage', segment: 'sign-up-package', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/viettel-package-detail/viettel-package-detail.module#ViettelPackageDetailPageModule', name: 'ViettelPackageDetailPage', segment: 'thong-tin-goi-cuoc/:name', priority: 'low', defaultHistory: [] }
                     ]
                 }),
@@ -2399,7 +2399,7 @@ var HomePage = /** @class */ (function () {
     ], HomePage.prototype, "myContent", void 0);
     HomePage = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
-            selector: 'page-home',template:/*ion-inline-start:"/Users/admin/workspace/ionic/viettel-4g-ads/src/pages/home/home.html"*/'<ion-content>\n  <div class="img-header">\n    <img src="./assets/imgs/viettel-4g-desktop.jpg" alt="Viettel 4G">\n  </div>\n\n  <div *ngFor="let item of mPackages; let i = index" class="x-row-container background-{{i}}">\n    <div class="a1-relative">\n        <div class="package-name" [ngClass]="mColors[i]">{{item.name}}</div>\n        <div class="vt-4g-package-title">\n          <span>{{item.title}}</span>\n        </div>\n\n        <div class="sm-hidden md-hidden lg-hidden xl-hidden" text-center margin-bottom>\n          <button ion-button outline class="btn-info " [ngClass]="mColors2[i]" (click)="onClickInfo(item)">Thông tin</button>\n        </div>\n\n        <div class="btn-right a1-absolute xs-hidden">\n            <button ion-button outline class="btn-info " [ngClass]="mColors2[i]" (click)="onClickInfo(item)">Thông tin</button>\n        </div>\n    </div>\n\n    <ion-row justify-content-center>\n      <ion-col col-12 col-sm-3 col-lg-3 *ngFor="let p of item.items">\n        <div class="m-package-container">\n          <viettel-package [mViettelPackage]="p" [color]="mColors[i]"></viettel-package>\n        </div>\n      </ion-col>\n    </ion-row>\n  </div>\n\n  <question-and-answer></question-and-answer>\n\n  <viettel-footer></viettel-footer>\n\n  <ion-fab bottom right class="scroll-top-btn" [hidden]="mScrollTop < 20">\n    <button ion-fab color="light" (click)="scrollTop()">\n      <ion-icon name="md-arrow-up"></ion-icon>\n    </button>\n  </ion-fab>\n\n  <ion-fab top left>\n    <fake-customer></fake-customer>\n  </ion-fab>\n\n  <ion-fab bottom right class="btn-menu">\n    <button ion-fab (click)="onClickAddFab()">\n      <ion-icon name="add" class="animated pulse"></ion-icon>\n    </button>\n  </ion-fab>\n\n\n</ion-content>'/*ion-inline-end:"/Users/admin/workspace/ionic/viettel-4g-ads/src/pages/home/home.html"*/
+            selector: 'page-home',template:/*ion-inline-start:"/Users/admin/workspace/ionic/viettel-4g-ads/src/pages/home/home.html"*/'<ion-content>\n  <div class="img-header">\n    <img src="./assets/imgs/viettel-4g-desktop.jpg" alt="Viettel 4G">\n  </div>\n\n  <div *ngFor="let item of mPackages; let i = index" class="x-row-container background-{{i}}">\n    <div class="a1-relative">\n        <div class="package-name" [ngClass]="mColors[i]">{{item.name}}</div>\n        <div class="vt-4g-package-title">\n          <span>{{item.title}}</span>\n        </div>\n\n        <div class="sm-hidden md-hidden lg-hidden xl-hidden" text-center margin-bottom>\n          <button ion-button outline class="btn-info " [ngClass]="mColors2[i]" (click)="onClickInfo(item)">Thông tin</button>\n        </div>\n\n        <div class="btn-right a1-absolute xs-hidden">\n            <button ion-button outline class="btn-info " [ngClass]="mColors2[i]" (click)="onClickInfo(item)">Thông tin</button>\n        </div>\n    </div>\n\n    <ion-row justify-content-center>\n      <ion-col col-12 col-sm-3 col-lg-3 *ngFor="let p of item.items">\n        <div class="m-package-container">\n          <viettel-package [mViettelPackage]="p" [color]="mColors[i]"></viettel-package>\n        </div>\n      </ion-col>\n    </ion-row>\n  </div>\n\n  <question-and-answer></question-and-answer>\n\n  <viettel-footer></viettel-footer>\n\n  <ion-fab bottom right class="scroll-top-btn" [hidden]="mScrollTop < 20">\n    <button ion-fab color="light" (click)="scrollTop()">\n      <ion-icon name="md-arrow-up"></ion-icon>\n    </button>\n  </ion-fab>\n\n  <!-- <ion-fab top left>\n    <fake-customer></fake-customer>\n  </ion-fab> -->\n\n  <ion-fab bottom right class="btn-menu">\n    <button ion-fab (click)="onClickAddFab()">\n      <ion-icon name="add" class="animated pulse"></ion-icon>\n    </button>\n  </ion-fab>\n\n\n</ion-content>'/*ion-inline-end:"/Users/admin/workspace/ionic/viettel-4g-ads/src/pages/home/home.html"*/
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["d" /* Events */],
             __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* MenuController */],

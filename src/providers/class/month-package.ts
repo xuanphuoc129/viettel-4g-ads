@@ -101,7 +101,7 @@ export class PackageController {
             data: "5GB",
             isHot: true,
             time: "30 ngày",
-            url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=mimax90&ch=230583"
+            url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=mimax90&ch=234513"
         },
         {
             p_id: "1",
@@ -112,7 +112,7 @@ export class PackageController {
             data: "30GB",
             isHot: true,
             time: "30 ngày",
-            url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=umax300&ch=230583"
+            url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=umax300&ch=234513"
         },
         {
             p_id: "1",
@@ -123,7 +123,7 @@ export class PackageController {
             data: "3GB",
             isHot: false,
             time: "30 ngày",
-            url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=mimax70&ch=230583"
+            url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=mimax70&ch=234513"
         },
         {
             p_id: "1",
@@ -134,7 +134,7 @@ export class PackageController {
             data: "8GB",
             isHot: false,
             time: "30 ngày",
-            url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=mimax125&ch=230583"
+            url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=mimax125&ch=234513"
         },
         {
             p_id: "1",
@@ -145,7 +145,7 @@ export class PackageController {
             data: "15GB",
             isHot: false,
             time: "30 ngày",
-            url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=mimax200&ch=230583"
+            url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=mimax200&ch=234513"
         },
         {
             p_id: "2",
@@ -156,7 +156,7 @@ export class PackageController {
             data: "48GB",
             isHot: true,
             time: "12 tháng",
-            url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=D500&ch=230583"
+            url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=D500&ch=234513"
         },
         {
             p_id: "2",
@@ -167,7 +167,7 @@ export class PackageController {
             data: "84GB",
             isHot: true,
             time: "12 tháng",
-            url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=D900&ch=230583"
+            url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=D900&ch=234513"
         },
         {
             p_id: "2",
@@ -178,7 +178,7 @@ export class PackageController {
             data: "10GB",
             isHot: false,
             time: "30 ngày",
-            url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=D90&ch=230583"
+            url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=D90&ch=234513"
         },
         {
             p_id: "2",
@@ -189,7 +189,7 @@ export class PackageController {
             data: "7GB",
             isHot: false,
             time: "30 ngày",
-            url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=D70&ch=230583"
+            url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=D70&ch=234513"
         },
         {
             p_id: "2",
@@ -200,7 +200,7 @@ export class PackageController {
             data: "12GB",
             isHot: false,
             time: "30 ngày",
-            url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=D120&ch=230583"
+            url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=D120&ch=234513"
         },
         {
             p_id: "2",
@@ -211,7 +211,7 @@ export class PackageController {
             data: "20GB",
             isHot: false,
             time: "30 ngày",
-            url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=D200&ch=230583"
+            url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=D200&ch=234513"
         },
         {
             p_id: "3",
@@ -222,7 +222,7 @@ export class PackageController {
             data: "200MB",
             isHot: false,
             time: "60 ngày",
-            url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=TOMD10&ch=230583"
+            url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=TOMD10&ch=234513"
         },
         {
             p_id: "3",
@@ -233,7 +233,7 @@ export class PackageController {
             data: "1GB",
             isHot: false,
             time: "60 ngày",
-            url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=TOMD30&ch=230583"
+            url: "https://shop.viettel.vn/frame/dang-ky-goi-cuoc?code=TOMD30&ch=234513"
         }
     ];
    
